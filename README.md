@@ -39,6 +39,8 @@ This project was entirely made by [DW-dev](dw-dev@gmx.com). The last code update
 
 This git mirror was uploaded by Stephen Karl Larroque, without any contribution to the source code (feel free to diff with the contents of the .xpi and .crx files on the Firefox and Chrome extensions stores).
 
+Only this file (README.md) has been added, all the other files are completely unchanged (including the license).
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the functionality or documentation.
